@@ -1,0 +1,20 @@
+/* 全局样式表 */
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+/* .avatar_box {
+  width: 40px;
+  height: 40px;
+  border-radius: 10%;
+  box-shadow: 0 0 1px #ddd;
+  margin: 30px 0;
+  img {
+    height: 100%;
+    width: 100%;
+    border-radius: 10%;
+    background-color: rgb(241, 231, 231);
+  }
+} */
